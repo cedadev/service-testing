@@ -7,20 +7,20 @@ assignees: ''
 
 ---
 
-Developer in charge:
-Requested reviewer(s):
+**Developer in charge**:
+**Requested reviewer(s)**:
 (Don't forget to tag and assign the reviewers to this issue!)
 
-Service to be tested:
-Link to service:
-Version to test (e.g. a tagged version/ most recent version):
+**Service to be tested**:
+**Link to service**:
+**Version to test** (e.g. a tagged version/ most recent version):
 
-Instructions to set up testing environment:
+**Instructions to set up testing environment**:
 
-What type of review is needed? 
+**What type of review is needed?** 
 (example below or add your own/ add more detail as required. For details on testing types see https://github.com/ellesmith88/service-testing/blob/main/testing_types.md)
 
-[] Component testing: Testing a component independently 
+- [ ] Component testing: Testing a component independently 
 	Details:
 	
 - [ ] Smoke testing: Testing that the critical functionality of the service is working. Checking that no show stopper defects exist
@@ -35,9 +35,9 @@ What type of review is needed?
 - [ ] Acceptance testing: Last phase of testing - testing that the end to end flow of the service is as required.
 	Details:
 
-Other actions required:
+**Other actions required**:
 
-More information:
+**More information**:
 
 
 Tag this issue in an appropriate issue in the repository of the service being tested if possible (i.e. copy and paste the link to this issue)
