@@ -23,18 +23,21 @@ What type of review is needed?
 [] Component testing: Testing a component independently 
 	Details:
 	
-[] Smoke testing: Testing that the critical functionality of the service is working. Checking that no show stopper defects exist
+- [ ] Smoke testing: Testing that the critical functionality of the service is working. Checking that no show stopper defects exist
 	Details:
 
-[] End to End testing: Testing of a complete application environment in a situation that mimics real-world use e.g. would include interaction with database if needed
+- [ ] End to End testing: Testing of a complete application environment in a situation that mimics real-world use e.g. would include interaction with database if needed
 	Details:
 
-[] Ad-hoc testing: Try to find defects by trying random workflows/ functionality
+- [ ] Ad-hoc testing: Try to find defects by trying random workflows/ functionality
 	Details:
 
-[] Acceptance testing: Last phase of testing - testing that the end to end flow of the service is as required.
+- [ ] Acceptance testing: Last phase of testing - testing that the end to end flow of the service is as required.
 	Details:
 
 Other actions required:
 
 More information:
+
+
+Tag this issue in an appropriate issue in the repository of the service being tested if possible (i.e. copy and paste the link to this issue)
