@@ -18,21 +18,21 @@ assignees: ''
 **Instructions to set up testing environment**:
 
 **What type of review is needed?** 
-(example below or add your own/ add more detail as required. For details on testing types see https://github.com/ellesmith88/service-testing/blob/main/testing_types.md)
+(example below or add your own/ add more detail as required.)
 
-- [ ] Component testing: Testing a component independently 
+- [ ] Testing a component independently 
 	Details:
 	
-- [ ] Smoke testing: Testing that the critical functionality of the service is working. Checking that no show stopper defects exist
+- [ ] Testing that the critical functionality of the service is working. Checking that no show stopper defects exist
 	Details:
 
-- [ ] End to End testing: Testing of a complete application environment in a situation that mimics real-world use e.g. would include interaction with database if needed
+- [ ] Testing of a complete application environment in a situation that mimics real-world use e.g. would include interaction with database if needed
 	Details:
 
-- [ ] Ad-hoc testing: Try to find defects by trying random workflows/ functionality
+- [ ] Try to find defects by trying random workflows/ functionality i.e. try to break it!
 	Details:
 
-- [ ] Acceptance testing: Last phase of testing - testing that the end to end flow of the service is as required.
+- [ ] Testing that the end to end flow of the service is as required.
 	Details:
 
 **Other actions required**:
